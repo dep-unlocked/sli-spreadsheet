@@ -5,4 +5,4 @@ This is literally the same spreadsheet DEP uses, just removed the password prote
 
 1. Click "SLI FORM SPREADSHEET UNLOCKED.xlsm"
 2. Click the 3 dot menu in upper right
-3. Click 'Download' under where it says 'Raw Data'
+3. Click 'Download' under where it says 'Raw file content'
